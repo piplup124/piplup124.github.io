@@ -1,5 +1,41 @@
 @import url("common.css");
 
+/* Apply the Shadows Into Light font to the entire body */
+body {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 18px; /* Adjust this size as needed */
+}
+
+/* Apply the font to headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 24px; /* Adjust this size as needed */
+}
+
+/* Apply the font to paragraphs */
+p {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 18px; /* Adjust this size as needed */
+}
+
+/* Apply the font to links */
+a {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 18px; /* Adjust this size as needed */
+}
+
+/* Apply the font to other specific elements */
+.some-class {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px; /* Adjust this size as needed */
+}
+
+/* Example for buttons */
+button {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 18px; /* Adjust this size as needed */
+}
+
 #error, noscript>div {
 	position: relative;
 	display: block;
