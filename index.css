@@ -94,6 +94,10 @@ button {
 	letter-spacing: 0px;
 }
 
+body {
+  font-size: 18px; /* Adjust this value to make text larger */
+}
+
 #version {
 	position: absolute;
 	display: block;
